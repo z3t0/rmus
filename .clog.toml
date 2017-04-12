@@ -1,0 +1,6 @@
+[clog]
+
+repository = "https://github.com/z3t0/rmus"
+subtitle = "pre-alpha"
+link-style = "github"
+changelog = "changelog.md"
