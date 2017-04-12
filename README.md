@@ -1,0 +1,3 @@
+# rmus
+
+Cmus in rust
